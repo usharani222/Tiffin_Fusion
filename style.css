@@ -1350,7 +1350,7 @@ html {
   display: inline-block; /* Inline block for button */
   margin-top: 10px; /* Space above button */
   padding: 10px 15px; /* Padding inside button */
-  background: #007BFF; /* Button background color */
+  background:  #e94c3d; /* Button background color */
   color: #fff; /* Button text color */
   text-decoration: none; /* Remove underline */
   border-radius: 5px; /* Rounded corners for button */
@@ -1358,7 +1358,7 @@ html {
 }
 
 .read-more-button:hover {
-  background: #e03e00; /* Darker shade on hover */
+  background: #c9382e; /* Darker shade on hover */
 }
 
 
